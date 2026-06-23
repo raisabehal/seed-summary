@@ -1,0 +1,68 @@
+# ---------------------------------------------------------------------------
+# Your job-search profile. This drives the priority score for every company.
+# Edit freely: add/remove keywords and tune the weights to taste.
+# Scores are normalized 0-100 in the final report.
+# ---------------------------------------------------------------------------
+
+# Roles you are targeting. `match` keywords are checked against job titles
+# (case-insensitive). A company scores on roles only if it has OPEN jobs that
+# match — this is the strongest signal that funding turned into hiring.
+target_roles:
+  - name: Technical Program Manager
+    match: ["technical program manager", "tpm", "program manager", "technical project manager"]
+  - name: Engagement Manager
+    match: ["engagement manager", "engagement lead", "customer engagement"]
+  - name: Delivery Lead
+    match: ["delivery lead", "delivery manager", "delivery head", "head of delivery", "implementation manager", "professional services"]
+  - name: Product Manager
+    match: ["product manager", "senior product manager", "group product manager", "principal product manager", "director of product", "head of product"]
+
+# Seniority hints — a small bonus when a matched role looks senior.
+seniority_bonus_keywords: ["senior", "staff", "principal", "lead", "head", "director", "vp", "group"]
+
+# Domains you care about. Checked against company name + description + funding
+# blurb. Each domain has its own weight contribution.
+target_domains:
+  - name: Health
+    weight: 1.0
+    match: ["health", "healthcare", "clinical", "patient", "medical", "biotech", "pharma", "life sciences", "telehealth", "medtech", "digital health", "care", "diagnos", "genomic"]
+  - name: Analytics / Data
+    weight: 1.0
+    match: ["analytics", "data platform", "data infrastructure", "business intelligence", "observability", "data warehouse", "insights", "metrics", "data science"]
+
+# Signal that the company is building AI capabilities.
+ai_signal:
+  weight: 1.0
+  match: ["ai", "artificial intelligence", "machine learning", "ml ", "llm", "genai", "generative ai", "deep learning", "nlp", "computer vision", "foundation model", "agentic", "copilot"]
+
+# Funding stages you care about (others are dropped before scoring).
+target_stages: ["seed", "series a", "series b", "pre-seed"]
+
+# Per-stage multiplier. Later-stage rounds often hire more aggressively.
+stage_weights:
+  pre-seed: 0.6
+  seed: 0.8
+  series a: 1.0
+  series b: 1.0
+
+# ---------------------------------------------------------------------------
+# Scoring weights. Each component is computed 0..1 then multiplied by its
+# weight; the weighted sum is normalized to 0..100 across the week's batch.
+# ---------------------------------------------------------------------------
+weights:
+  role_match: 4.0        # has open jobs matching your target roles
+  domain_match: 2.5      # operates in a target domain (health / analytics)
+  ai_signal: 2.0         # building AI capabilities
+  funding_recency: 1.0   # how recently they raised (decays over ~8 weeks)
+  hiring_volume: 1.0     # how many relevant roles are open (saturates)
+  stage_fit: 0.5         # stage multiplier applied to the above
+
+# Companies below this normalized score are still listed but flagged low.
+highlight_threshold: 60
+
+# How recent a funding event must be to be considered (days).
+funding_lookback_days: 30
+
+# Hiring can lag funding by 2-3 weeks. Companies with no relevant jobs yet are
+# kept and auto-suggested for the watchlist when this is true.
+suggest_watch_when_no_jobs_yet: true

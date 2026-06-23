@@ -1,0 +1,51 @@
+# ---------------------------------------------------------------------------
+# Where funding signals come from. All sources here are free and public.
+# Disable any source by setting `enabled: false`.
+# ---------------------------------------------------------------------------
+
+# RSS / Atom feeds that report funding rounds. These are the most reliable
+# free signal. Add any feed that publishes funding news.
+rss_feeds:
+  - name: TechCrunch — Venture
+    url: https://techcrunch.com/category/venture/feed/
+    enabled: true
+  - name: TechCrunch — Fundraising
+    url: https://techcrunch.com/tag/fundraising/feed/
+    enabled: true
+  - name: EU-Startups
+    url: https://www.eu-startups.com/feed/
+    enabled: true
+  - name: Tech Funding News
+    url: https://techfundingnews.com/feed/
+    enabled: true
+  - name: FinSMEs
+    url: https://www.finsmes.com/feed
+    enabled: true
+
+# VC portfolio pages. These are best-effort HTML scrapers — portfolio pages
+# change layout and many are JS-rendered, so each adapter is defensive and
+# failures are logged but never fatal. They enrich/confirm the RSS signal and
+# help attribute a company to an investor.
+vc_portfolios:
+  - name: a16z
+    slug: a16z
+    url: https://a16z.com/portfolio/
+    enabled: true
+  - name: Bessemer Venture Partners
+    slug: bessemer
+    url: https://www.bvp.com/companies
+    enabled: true
+  - name: NEA
+    slug: nea
+    url: https://www.nea.com/portfolio
+    enabled: true
+  - name: General Catalyst
+    slug: general-catalyst
+    url: https://www.generalcatalyst.com/portfolio
+    enabled: true
+
+# Networking / request behavior.
+http:
+  user_agent: "seed-summary/1.0 (+https://github.com/raisabehal/seed-summary)"
+  timeout_seconds: 25
+  max_retries: 3

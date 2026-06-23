@@ -1,0 +1,13 @@
+# ---------------------------------------------------------------------------
+# Companies you are actively monitoring for NEW relevant roles each week.
+# Managed automatically: the dashboard generates a prefilled GitHub Issue,
+# and the `watchlist-update` workflow writes selections here. You can also
+# edit by hand.
+# ---------------------------------------------------------------------------
+companies: []
+  # Example shape (added automatically when you pick companies in the dashboard):
+  # - slug: acme-health
+  #   name: Acme Health
+  #   added: "2026-06-23"
+  #   ats: { provider: greenhouse, token: acmehealth }   # optional, auto-detected
+  #   notes: "Series A, digital health, hiring TPMs soon?"

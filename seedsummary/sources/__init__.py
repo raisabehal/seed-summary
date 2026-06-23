@@ -1,0 +1,1 @@
+"""Funding-signal sources."""
