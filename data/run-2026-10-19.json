@@ -1,0 +1,1877 @@
+{
+  "generated_at": "2026-10-19",
+  "company_count": 17,
+  "companies": [
+    {
+      "name": "Redwood Materials",
+      "slug": "redwood-materials",
+      "stage": "",
+      "amount": "$350M",
+      "investors": [
+        "Eclipse",
+        "NVentures",
+        "Nvidia's venture capital arm"
+      ],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/"
+      ],
+      "blurb": "The round was led by Eclipse and saw participation from Nvidia's venture capital arm, NVentures.",
+      "funded_on": "2025-10-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {
+        "provider": "greenhouse",
+        "token": "redwoodmaterials"
+      },
+      "jobs": [
+        {
+          "title": "Abuse Test Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5894704004?gh_jid=5894704004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Abuse Testing Technician, Lead",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6167872004?gh_jid=6167872004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Account Manager, Business Development",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141193004?gh_jid=6141193004",
+          "location": "USA - Remote",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Analytical Laboratory Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6120081004?gh_jid=6120081004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Analytical Lab Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6147861004?gh_jid=6147861004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Analytical Lab Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6147864004?gh_jid=6147864004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Battery Disassembly Technician, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5990074004?gh_jid=5990074004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Battery Software Integration Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "BESS Electrical Development Engineer, Senior or Staff",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6143587004?gh_jid=6143587004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-09-12",
+          "matched_role": ""
+        },
+        {
+          "title": "BESS Project Engineer, Senior or Staff",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6190880004?gh_jid=6190880004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Business Development Analyst, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5817897004?gh_jid=5817897004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-07-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Cathode Design Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103561004?gh_jid=6103561004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Chemical Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6128148004?gh_jid=6128148004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Chemical Operator",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6000384004?gh_jid=6000384004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Chemical Operator",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103557004?gh_jid=6103557004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Chemical Operator",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103558004?gh_jid=6103558004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Class A Driver",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222724004?gh_jid=6222724004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-10-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Class A Driver",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6200734004?gh_jid=6200734004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Commercial Operations Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6122122004?gh_jid=6122122004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Construction Quality Assurance/Quality Control\u00a0Manager, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5989712004?gh_jid=5989712004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Controls Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5748763004?gh_jid=5748763004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Controls Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6133788004?gh_jid=6133788004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Development Engineering Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6000348004?gh_jid=6000348004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Digital Transformation Lead, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5998668004?gh_jid=5998668004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Digital Transformation Lead, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5998499004?gh_jid=5998499004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Director, HR Business Partner & Talent Management",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226234004?gh_jid=6226234004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Director of Marketing",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139220004?gh_jid=6139220004",
+          "location": "USA - Remote",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Director, Powered Land Development",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6220456004?gh_jid=6220456004",
+          "location": "USA - Remote",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Director, Powered Land Development",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6218514004?gh_jid=6218514004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "EHS Manager - Construction",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6186175004?gh_jid=6186175004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Electrical Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223647004?gh_jid=6223647004",
+          "location": "Carson City, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Electrical Engineering Associate, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223627004?gh_jid=6223627004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Electronics Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103559004?gh_jid=6103559004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Embedded Software Engineer \u2013 Power Electronics, Energy Storage ",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Facilities Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103563004?gh_jid=6103563004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-09-25",
+          "matched_role": ""
+        },
+        {
+          "title": "Facilities Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141146004?gh_jid=6141146004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Facilities Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6114093004?gh_jid=6114093004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Field Service Electrician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5640993004?gh_jid=5640993004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-08-31",
+          "matched_role": ""
+        },
+        {
+          "title": "Field Service Electrician, Solar and Battery Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5806209004?gh_jid=5806209004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-08-31",
+          "matched_role": ""
+        },
+        {
+          "title": "Field Service Technician, Battery Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6133746004?gh_jid=6133746004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Functional Safety Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5978342004?gh_jid=5978342004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "General Site Superintendent",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6039789004?gh_jid=6039789004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Global Supply Manager, Electronics & PCBA",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6183894004?gh_jid=6183894004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Global Supply Manager \u2013 Mechanicals  ",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5820402004?gh_jid=5820402004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Head of Total Rewards and People Analytics",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226233004?gh_jid=6226233004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Infrastructure Software Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737879004?gh_jid=5737879004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "International Export Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6186952004?gh_jid=6186952004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "IT Support Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103250004?gh_jid=6103250004",
+          "location": "McCarran, NV; Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Land Development Project Manager, Senior or Staff",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6143595004?gh_jid=6143595004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-09-12",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Battery Disassembly Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222741004?gh_jid=6222741004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Maintenance Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6128382004?gh_jid=6128382004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Maintenance Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6142912004?gh_jid=6142912004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Material Flow Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6146645004?gh_jid=6146645004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Project Controls Specialist, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103560004?gh_jid=6103560004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Logistics Analyst (Inbound/Outbound)",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222749004?gh_jid=6222749004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Maintenance Planner",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6105443004?gh_jid=6105443004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Maintenance Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6116685004?gh_jid=6116685004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Manager, Inventory & Cost Accounting",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6142657004?gh_jid=6142657004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Manufacturing Equipment Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6181524004?gh_jid=6181524004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Material Flow Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6142462004?gh_jid=6142462004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Material Flow Supervisor",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6203737004?gh_jid=6203737004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical Design Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5835808004?gh_jid=5835808004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-05",
+          "matched_role": ""
+        },
+        {
+          "title": "Medium Voltage Electrician, Facilities",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6017391004?gh_jid=6017391004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Operations Packaging Supervisor",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103949004?gh_jid=6103949004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Power Electronics Controls Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737875004?gh_jid=5737875004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-09-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Power Electronics Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737886004?gh_jid=5737886004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Principal Engineer, Extractive Metallurgy",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6211118004?gh_jid=6211118004",
+          "location": "Carson City, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6123019004?gh_jid=6123019004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5996188004?gh_jid=5996188004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6123020004?gh_jid=6123020004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6116686004?gh_jid=6116686004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6128077004?gh_jid=6128077004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Control Planner",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6118310004?gh_jid=6118310004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Engineering Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6123022004?gh_jid=6123022004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Supervisor",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226242004?gh_jid=6226242004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Reliability Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5836554004?gh_jid=5836554004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-07-27",
+          "matched_role": ""
+        },
+        {
+          "title": "Security Officer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6201160004?gh_jid=6201160004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Analytics Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Battery Data Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219757004?gh_jid=6219757004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Battery Test and Validation Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219767004?gh_jid=6219767004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior BESS Superintendent, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6013065004?gh_jid=6013065004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Data Engineering Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Design Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6115977004?gh_jid=6115977004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior DevOps Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6193352004?gh_jid=6193352004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Finance Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6224694004?gh_jid=6224694004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior HR Business Partner",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6214312004?gh_jid=6214312004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Maintenance Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6114993004?gh_jid=6114993004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager,  Commissioning ",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6146631004?gh_jid=6146631004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, Facilities",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6017650004?gh_jid=6017650004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, Field Performance Engineering, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6014574004?gh_jid=6014574004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, FP&A and Investor Relations",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103565004?gh_jid=6103565004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Mechanical Engineer, Production",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6122148004?gh_jid=6122148004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Operations Program Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139223004?gh_jid=6139223004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Piping Designer\u202f",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6016243004?gh_jid=6016243004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Power Electronics Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6142389004?gh_jid=6142389004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Power Systems Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6217867004?gh_jid=6217867004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Service Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823618004?gh_jid=5823618004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Software Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004?gh_jid=5823270004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Sourcer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6199636004?gh_jid=6199636004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Staff Scheduler",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6173978004?gh_jid=6173978004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Systems Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6007517004?gh_jid=6007517004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Technical Program Manager, Production Engineering",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141162004?gh_jid=6141162004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Training Specialist, EHS",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141373004?gh_jid=6141373004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - ML/Computer Vision (Battery Sorting)",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6099577004?gh_jid=6099577004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Site Controller, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6097367004?gh_jid=6097367004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Technical Program Manager, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5734248004?gh_jid=5734248004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Software Validation Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139226004?gh_jid=6139226004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Solar PV Project Engineer, Senior or Staff",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6190876004?gh_jid=6190876004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Solutions Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5998458004?gh_jid=5998458004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Spares Planner",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6114092004?gh_jid=6114092004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Spares Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222766004?gh_jid=6222766004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Sr. System Modeling Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737110004?gh_jid=5737110004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Applications Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219598004?gh_jid=6219598004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Architect, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6167474004?gh_jid=6167474004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Design Manager, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6008364004?gh_jid=6008364004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Electrical Design Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5992294004?gh_jid=5992294004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Electrical Design Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5991855004?gh_jid=5991855004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Electrical Design Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5989713004?gh_jid=5989713004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Cathode Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6167473004?gh_jid=6167473004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Chemical Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6133809004?gh_jid=6133809004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Controls Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5694022004?gh_jid=5694022004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-09-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Design Manager, Materials",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5999196004?gh_jid=5999196004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Electrical Engineer, Energy Storage BoP",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6217866004?gh_jid=6217866004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Mechanical Design Engineer, Big Machines",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6117129004?gh_jid=6117129004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Power Electronics Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6211414004?gh_jid=6211414004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Power Systems Engineer, Hardware in Loop",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6217841004?gh_jid=6217841004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Recruiter",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6132367004?gh_jid=6132367004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Recruiter, Early Career and Interns",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6199677004?gh_jid=6199677004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Software Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5804237004?gh_jid=5804237004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Software Engineer, Factory Automation",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5689062004?gh_jid=5689062004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-09-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Substation Protection and Control Engineer , EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5992301004?gh_jid=5992301004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Substation Protection and Control Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5653431004?gh_jid=5653431004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Substation Protection and Control Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5992300004?gh_jid=5992300004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Superintendent, Self Perform",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139257004?gh_jid=6139257004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Superintendent, Self Perform",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6131338004?gh_jid=6131338004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Supplier Industrialization Engineer, Mechanical Components",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219628004?gh_jid=6219628004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Supplier Industrialization Engineer (SIE) \u2013 Electronics & PCBA",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6217888004?gh_jid=6217888004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [
+        {
+          "title": "Senior Operations Program Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139223004?gh_jid=6139223004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Technical Program Manager, Production Engineering",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141162004?gh_jid=6141162004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-19",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Software Technical Program Manager, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5734248004?gh_jid=5734248004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": "Technical Program Manager"
+        }
+      ],
+      "score": 100.0,
+      "score_breakdown": {
+        "role_match": 4.4,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.6,
+        "_subtotal": 7.1,
+        "_stage_mult": 0.95,
+        "_raw": 6.744999999999999
+      },
+      "highlighted": true,
+      "suggest_watch": false
+    },
+    {
+      "name": "Vesta",
+      "slug": "vesta",
+      "stage": "",
+      "amount": "$30M",
+      "investors": [
+        "Conversion Capital"
+      ],
+      "sources": [
+        "TechCrunch \u2014 Venture"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/"
+      ],
+      "blurb": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "funded_on": "2026-10-08",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {
+        "provider": "ashby",
+        "token": "vesta"
+      },
+      "jobs": [
+        {
+          "title": "Product Manager",
+          "url": "https://jobs.ashbyhq.com/vesta/fda6030d-5655-4077-8345-b3d5ee66527c",
+          "location": "Remote",
+          "department": "Product",
+          "posted": "2026-09-03",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Software Engineer - Backend",
+          "url": "https://jobs.ashbyhq.com/vesta/8b1a6e67-9a28-460f-b2bb-37f2e1069e94",
+          "location": "Remote",
+          "department": "Engineering",
+          "posted": "2026-03-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Fullstack",
+          "url": "https://jobs.ashbyhq.com/vesta/ca4bfe22-b7f4-4150-8f6f-fb01f1fe4477",
+          "location": "Remote",
+          "department": "Engineering",
+          "posted": "2026-03-07",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Platform",
+          "url": "https://jobs.ashbyhq.com/vesta/deee60e6-d180-41aa-8d0e-f7e9e4baf0ba",
+          "location": "Remote",
+          "department": "Engineering",
+          "posted": "2026-03-07",
+          "matched_role": ""
+        },
+        {
+          "title": "Implementation Manager",
+          "url": "https://jobs.ashbyhq.com/vesta/726804e8-240c-4217-bebb-c43bdf06e28f",
+          "location": "Remote",
+          "department": "Implementations",
+          "posted": "2026-04-08",
+          "matched_role": "Delivery Lead"
+        },
+        {
+          "title": "Software Engineer - Infrastructure",
+          "url": "https://jobs.ashbyhq.com/vesta/87400dd3-50a1-4ed8-ba06-98751707a3e9",
+          "location": "Remote",
+          "department": "Engineering",
+          "posted": "2026-05-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Mortgage Process Specialist",
+          "url": "https://jobs.ashbyhq.com/vesta/970c909f-a6a4-4c07-9cda-e2278bfe55cc",
+          "location": "Remote",
+          "department": "Product",
+          "posted": "2026-05-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Product Marketing Lead",
+          "url": "https://jobs.ashbyhq.com/vesta/c72f32a4-ca1d-4c50-b29c-30b2443bc2d0",
+          "location": "Remote",
+          "department": "Revenue",
+          "posted": "2026-08-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Technical Integration Specialist",
+          "url": "https://jobs.ashbyhq.com/vesta/13c60807-2945-42cb-8deb-44463aaa6541",
+          "location": "Remote",
+          "department": "Operations",
+          "posted": "2026-08-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, Customer Success",
+          "url": "https://jobs.ashbyhq.com/vesta/1f031efa-f56d-4657-9cef-ef4db08f9a1b",
+          "location": "Remote",
+          "department": "Implementations",
+          "posted": "2026-09-11",
+          "matched_role": ""
+        },
+        {
+          "title": "Sr Manager, People",
+          "url": "https://jobs.ashbyhq.com/vesta/9ab50022-e586-40b5-b0f0-f19814088e5b",
+          "location": "Remote",
+          "department": "Operations",
+          "posted": "2026-09-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Talent Outreach Coordinator",
+          "url": "https://jobs.ashbyhq.com/vesta/567b7fb7-9216-492b-804d-10743ec5cec1",
+          "location": "Remote",
+          "department": "Operations",
+          "posted": "2026-09-16",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [
+        {
+          "title": "Product Manager",
+          "url": "https://jobs.ashbyhq.com/vesta/fda6030d-5655-4077-8345-b3d5ee66527c",
+          "location": "Remote",
+          "department": "Product",
+          "posted": "2026-09-03",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Implementation Manager",
+          "url": "https://jobs.ashbyhq.com/vesta/726804e8-240c-4217-bebb-c43bdf06e28f",
+          "location": "Remote",
+          "department": "Implementations",
+          "posted": "2026-04-08",
+          "matched_role": "Delivery Lead"
+        }
+      ],
+      "score": 99.1,
+      "score_breakdown": {
+        "role_match": 4.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.6333333333333333,
+        "hiring_volume": 0.4,
+        "_subtotal": 7.033333333333333,
+        "_stage_mult": 0.95,
+        "_raw": 6.681666666666667
+      },
+      "highlighted": true,
+      "suggest_watch": false
+    },
+    {
+      "name": "Valencia-based Linkener",
+      "slug": "valencia-based-linkener",
+      "stage": "",
+      "amount": "$7.5M",
+      "investors": [
+        "Klima Energy Transition Fund",
+        "Alantra\u2019s energy transition fund"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/"
+      ],
+      "blurb": "Linkener, a Valencia-based EnergyTech startup that digitises and optimises energy management for businesses through a platform combining consumption metering, data analytics and AI, has closed a \u20ac7.5 million funding round. The round was led by Klima Energy Transition Fund, Alantra\u2019s energy transition fund, with GoHub Ventures remaining a shareholder. Jos\u00e9 Ignacio Ruiz, CEO of Linkener, [&#8230;] The post Valencia-based Linkener raises \u20ac7.5 million to digitise and optimise energy management for businesses appeared first on EU-Startups .",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [
+        "Analytics / Data"
+      ],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 77.5,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 2.5,
+        "ai_signal": 2.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 5.5,
+        "_stage_mult": 0.95,
+        "_raw": 5.225
+      },
+      "highlighted": true,
+      "suggest_watch": true
+    },
+    {
+      "name": "Switzerland\u2019s Nouscom",
+      "slug": "switzerland-s-nouscom",
+      "stage": "",
+      "amount": "$120M",
+      "investors": [
+        "M Ventures",
+        "Neva [&#8230"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/10/switzerlands-nouscom-bags-e120-million-to-bring-innovative-cancer-immunotherapy-closer-to-clinical-trials/"
+      ],
+      "blurb": "Basel-based Nouscom, a clinical-stage, cancer interception focused BioTech developing next-generation immunotherapies, today announced the closing of an oversubscribed \u20ac120 million ($135 million) Series D financing to fund the advancement of an investigational off-the-shelf neoantigen-based cancer immunotherapy. The round was co-led by M Ventures and Revelation Partners alongside new investors Angelini Ventures, the EIB, and Neva [&#8230;] The post Switzerland&#8217;s Nouscom bags \u20ac120 million to bring innovative cancer immunotherapy closer to clinical trials appeared first on EU-Startups .",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [
+        "Health"
+      ],
+      "ai_signal": false,
+      "ats": {
+        "provider": "greenhouse",
+        "token": "switzerland"
+      },
+      "jobs": [
+        {
+          "title": "Future Opportunites",
+          "url": "https://job-boards.greenhouse.io/switzerland/jobs/8290161002",
+          "location": "Switzerland",
+          "department": "",
+          "posted": "2026-09-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Managing Consultant - Findur Functional",
+          "url": "https://job-boards.greenhouse.io/switzerland/jobs/8785845002",
+          "location": "Switzerland",
+          "department": "",
+          "posted": "2026-09-08",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [],
+      "score": 49.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 2.5,
+        "ai_signal": 0.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 3.5,
+        "_stage_mult": 0.95,
+        "_raw": 3.3249999999999997
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Swiss biotech Nouscom",
+      "slug": "swiss-biotech-nouscom",
+      "stage": "",
+      "amount": "$135M",
+      "investors": [],
+      "sources": [
+        "Tech Funding News"
+      ],
+      "urls": [
+        "https://techfundingnews.com/swiss-biotech-nouscom-secures-135m-pushing-cancer-prevention-vaccine-forward/"
+      ],
+      "blurb": "Nouscom\u2019s co-founder and original chief executive, Riccardo Cortese, died in 2017, the year after Marina Udier joined the&#8230;",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [
+        "Health"
+      ],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 49.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 2.5,
+        "ai_signal": 0.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 3.5,
+        "_stage_mult": 0.95,
+        "_raw": 3.3249999999999997
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Linkener",
+      "slug": "linkener",
+      "stage": "",
+      "amount": "$7.5M",
+      "investors": [
+        "Klima"
+      ],
+      "sources": [
+        "Tech Funding News"
+      ],
+      "urls": [
+        "https://techfundingnews.com/linkener-lands-e7-5m-from-alantras-klima-to-roll-up-spains-fragmented-business-energy-software-market/"
+      ],
+      "blurb": "Spanish energy technology startup Linkener has raised \u20ac7.5 million in a round led by Klima, the energy transition&#8230;",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 42.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 3.0,
+        "_stage_mult": 0.95,
+        "_raw": 2.8499999999999996
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "UK RegTech CoComply",
+      "slug": "uk-regtech-cocomply",
+      "stage": "",
+      "amount": "$1.9M",
+      "investors": [
+        "Mercia",
+        "Haatch to expose hidden contractors"
+      ],
+      "sources": [
+        "Tech Funding News"
+      ],
+      "urls": [
+        "https://techfundingnews.com/uk-regtech-cocomply-raises-1-9m-from-mercia-and-haatch-to-expose-hidden-contractors/"
+      ],
+      "blurb": "CoComply, a UK compliance startup that has raised \u00a31.9 million to find contractors hidden inside supplier agreements. Mercia&#8230;",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 42.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 3.0,
+        "_stage_mult": 0.95,
+        "_raw": 2.8499999999999996
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Catalio Capital",
+      "slug": "catalio-capital",
+      "stage": "",
+      "amount": "$400M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/"
+      ],
+      "blurb": "Catalio Capital Management announced the closing of its more than $400 million Fund IV. The fund will continue the firm\u2019s thesis of backing healthcare and biotechnology companies.",
+      "funded_on": "2025-07-01",
+      "website": "",
+      "domains": [
+        "Health"
+      ],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 36.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 2.5,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.6,
+        "_stage_mult": 0.95,
+        "_raw": 2.4699999999999998
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Amsterdam\u2019s Huppa",
+      "slug": "amsterdam-s-huppa",
+      "stage": "pre-seed",
+      "amount": "$1M",
+      "investors": [
+        "Keylane",
+        "TicketSwap",
+        "Moneybird",
+        "Revue",
+        "NL [&#8230"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/"
+      ],
+      "blurb": "Huppa, an Amsterdam-based SportsTech startup offering an all-in-one platform for gyms, CrossFit boxes and studios, has secured \u20ac1 million in pre-Seed funding. The investment round was led by a group of seasoned entrepreneurs and investors, including the founders of Dutch tech companies Sentia, Keylane, TicketSwap, Moneybird, and Revue. The round also saw participation from NL [&#8230;] The post Amsterdam\u2019s Huppa raises \u20ac1 million to build an operating system for class-based gyms and studios appeared first on EU-Startups .",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 35.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 3.0,
+        "_stage_mult": 0.8,
+        "_raw": 2.4000000000000004
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Modelence",
+      "slug": "modelence",
+      "stage": "",
+      "amount": "$3M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/"
+      ],
+      "blurb": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+      "funded_on": "2026-01-28",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 29.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "VC firm 2150",
+      "slug": "vc-firm-2150",
+      "stage": "",
+      "amount": "$210M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/"
+      ],
+      "blurb": "Europe-based venture fund 2150 raised the money to invest in climate tech startups that help solve cities' carbon footprint.",
+      "funded_on": "2026-01-26",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 29.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "A new search engine",
+      "slug": "a-new-search-engine",
+      "stage": "",
+      "amount": "$1.1M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/"
+      ],
+      "blurb": "Lore raises $1.1 million to build a personalized search engine for fandom culture.",
+      "funded_on": "2025-10-03",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 29.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "AI voice company Hyper",
+      "slug": "ai-voice-company-hyper",
+      "stage": "",
+      "amount": "$6.3M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-911-calls/"
+      ],
+      "blurb": "Hyper hopes to use the fresh capital to help scale across the country, integrate more into existing 911 systems, hire a head of engineering, and build its next product.",
+      "funded_on": "2025-07-21",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 29.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Turbine Capital",
+      "slug": "turbine-capital",
+      "stage": "",
+      "amount": "$54M",
+      "investors": [],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/10/turbine-capital-closes-e54-million-deeptech-fund-to-connect-nordic-startups-with-industrial-leaders/"
+      ],
+      "blurb": "Turbine Capital, a Swedish VC fund focused on early-stage DeepTech companies in the Nordics, announced the final close of its first fund at \u20ac54 million (SEK 608 million) and a new industrial investor. Mycronic joins the fund alongside Saab, Scania, Volvo Cars and Stena, as well as a number of industrial family offices and private [&#8230;] The post Turbine Capital closes \u20ac54 million DeepTech fund to connect Nordic startups with industrial leaders appeared first on EU-Startups .",
+      "funded_on": "2026-10-19",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 14.1,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 1.0,
+        "hiring_volume": 0.0,
+        "_subtotal": 1.0,
+        "_stage_mult": 0.95,
+        "_raw": 0.95
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    },
+    {
+      "name": "Superorganism",
+      "slug": "superorganism",
+      "stage": "",
+      "amount": "$25M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/01/13/superorganism-raises-25m-to-back-biodiversity-startups/"
+      ],
+      "blurb": "Superorganism backs companies across three categories: tech that slows or reverses extinction, startups that operate at the intersection of climate and biodiversity, and tools that enable conservationists to do their work more effectively.",
+      "funded_on": "2026-01-13",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 1.4,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.1,
+        "_stage_mult": 0.95,
+        "_raw": 0.095
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    },
+    {
+      "name": "A year after filing to IPO, still-private Cerebras Systems",
+      "slug": "a-year-after-filing-to-ipo-still-private-cerebras-systems",
+      "stage": "",
+      "amount": "$1.1B",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/"
+      ],
+      "blurb": "Cerebras initially filed to go public in September 2024 but ran into several regulatory delays due to foreign investments.",
+      "funded_on": "2025-09-30",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 1.4,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.1,
+        "_stage_mult": 0.95,
+        "_raw": 0.095
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    },
+    {
+      "name": "Doorstep",
+      "slug": "doorstep",
+      "stage": "seed",
+      "amount": "$8M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/"
+      ],
+      "blurb": "Doorstep integrates into existing delivery apps and then, using phone sensors, tracks when a driver has entered a building, gone up an elevator, and made it to the desired doorstep.",
+      "funded_on": "2025-09-25",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 1.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.1,
+        "_stage_mult": 0.9,
+        "_raw": 0.09000000000000001
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    }
+  ]
+}
