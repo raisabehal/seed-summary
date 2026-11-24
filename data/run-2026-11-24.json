@@ -1,0 +1,3117 @@
+{
+  "generated_at": "2026-11-24",
+  "company_count": 22,
+  "companies": [
+    {
+      "name": "Helsing backer Plural",
+      "slug": "helsing-backer-plural",
+      "stage": "",
+      "amount": "$1.1B",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Venture"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/"
+      ],
+      "blurb": "Operator-led VC firm Plural has raised \u20ac1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures\u2019 Kembara and EQT-managed Scaleup Europe Fund.",
+      "funded_on": "2026-11-16",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {
+        "provider": "greenhouse",
+        "token": "helsing"
+      },
+      "jobs": [
+        {
+          "title": "Accountant",
+          "url": "https://helsing.ai/jobs/4927641101?gh_jid=4927641101",
+          "location": "Munich - London",
+          "department": "",
+          "posted": "2026-09-25",
+          "matched_role": ""
+        },
+        {
+          "title": "Accountant - Part time",
+          "url": "https://helsing.ai/jobs/4974612101?gh_jid=4974612101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-11",
+          "matched_role": ""
+        },
+        {
+          "title": "AI Research Engineer - GPU Simulation",
+          "url": "https://helsing.ai/jobs/4953387101?gh_jid=4953387101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-05",
+          "matched_role": ""
+        },
+        {
+          "title": "AI Research Engineer - ML & Signal Processing",
+          "url": "https://helsing.ai/jobs/5028719101?gh_jid=5028719101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "AI Research Engineer - Reinforcement Learning",
+          "url": "https://helsing.ai/jobs/5028731101?gh_jid=5028731101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-09",
+          "matched_role": ""
+        },
+        {
+          "title": "AI Research Engineer - Robotics",
+          "url": "https://helsing.ai/jobs/5028848101?gh_jid=5028848101",
+          "location": "Barcelona; London",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "AI Research Intern (PhD) \u2013 3D Computer Vision",
+          "url": "https://helsing.ai/jobs/4941957101?gh_jid=4941957101",
+          "location": "Barcelona; Berlin; London; Munich; Paris",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Associate Programme Manager - Air Defence",
+          "url": "https://helsing.ai/jobs/5044683101?gh_jid=5044683101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Commercial Director ",
+          "url": "https://helsing.ai/jobs/4969604101?gh_jid=4969604101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-09-10",
+          "matched_role": ""
+        },
+        {
+          "title": "Controller/in - \u00d6ffentliches Preisrecht & Kalkulation ",
+          "url": "https://helsing.ai/jobs/5044261101?gh_jid=5044261101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Controller Public Pricing Law",
+          "url": "https://helsing.ai/jobs/5044242101?gh_jid=5044242101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Deployed AI Engineer",
+          "url": "https://helsing.ai/jobs/4516967101?gh_jid=4516967101",
+          "location": "Berlin; London; Munich; Paris; Stockholm",
+          "department": "",
+          "posted": "2026-11-11",
+          "matched_role": ""
+        },
+        {
+          "title": "Deployed Hardware Engineer ",
+          "url": "https://helsing.ai/jobs/4972108101?gh_jid=4972108101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Design Engineer",
+          "url": "https://helsing.ai/jobs/4895583101?gh_jid=4895583101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Early Careers - Aerospace and Aeronautical Engineering ",
+          "url": "https://helsing.ai/jobs/5035173101?gh_jid=5035173101",
+          "location": "London; Munich",
+          "department": "",
+          "posted": "2026-11-12",
+          "matched_role": ""
+        },
+        {
+          "title": " Early Careers - Electronics and RF Engineering",
+          "url": "https://helsing.ai/jobs/5035194101?gh_jid=5035194101",
+          "location": "London; Munich",
+          "department": "",
+          "posted": "2026-11-12",
+          "matched_role": ""
+        },
+        {
+          "title": "Electrical & Electronics Engineer ",
+          "url": "https://helsing.ai/jobs/4972029101?gh_jid=4972029101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Electronics Engineer",
+          "url": "https://helsing.ai/jobs/4660594101?gh_jid=4660594101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Electronics Engineer",
+          "url": "https://helsing.ai/jobs/4924433101?gh_jid=4924433101",
+          "location": "London; Oxford",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Electronics Engineer ",
+          "url": "https://helsing.ai/jobs/5017328101?gh_jid=5017328101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Electro-Optical Expert - Space",
+          "url": "https://helsing.ai/jobs/5039795101?gh_jid=5039795101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Encargado/a de Taller de Mecanizado de Precisi\u00f3n",
+          "url": "https://helsing.ai/jobs/5032475101?gh_jid=5032475101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Encargado/a Taller de Mecanizado CNC",
+          "url": "https://helsing.ai/jobs/5031918101?gh_jid=5031918101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-10",
+          "matched_role": ""
+        },
+        {
+          "title": "Executive Assistant ",
+          "url": "https://helsing.ai/jobs/4791366101?gh_jid=4791366101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-10-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Export Control Manager",
+          "url": "https://helsing.ai/jobs/5015993101?gh_jid=5015993101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Field Engineer",
+          "url": "https://helsing.ai/jobs/4906726101?gh_jid=4906726101",
+          "location": "Martinsburg, WV; Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Field Engineer - Drone Interceptors ",
+          "url": "https://helsing.ai/jobs/5032670101?gh_jid=5032670101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-11-17",
+          "matched_role": ""
+        },
+        {
+          "title": "Field Engineer - Drones",
+          "url": "https://helsing.ai/jobs/4345720101?gh_jid=4345720101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-11-17",
+          "matched_role": ""
+        },
+        {
+          "title": "Finance Data Engineer",
+          "url": "https://helsing.ai/jobs/4871604101?gh_jid=4871604101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-08",
+          "matched_role": ""
+        },
+        {
+          "title": "Finanzbuchhalterin (m/w/d)",
+          "url": "https://helsing.ai/jobs/4975282101?gh_jid=4975282101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Flight Control Systems Engineer",
+          "url": "https://helsing.ai/jobs/4743310101?gh_jid=4743310101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Flight Dynamics Modelling Engineer",
+          "url": "https://helsing.ai/jobs/4995452101?gh_jid=4995452101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-26",
+          "matched_role": ""
+        },
+        {
+          "title": "Front Office Coordinator / Guest Service Agent",
+          "url": "https://helsing.ai/jobs/4835300101?gh_jid=4835300101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-27",
+          "matched_role": ""
+        },
+        {
+          "title": "Front Office Coordinator / Guest Service Agent (m/w/d)",
+          "url": "https://helsing.ai/jobs/4998730101?gh_jid=4998730101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Graphic Designer",
+          "url": "https://helsing.ai/jobs/4880852101?gh_jid=4880852101",
+          "location": "Berlin",
+          "department": "",
+          "posted": "2026-09-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Guidance, Navigation & Control Engineer",
+          "url": "https://helsing.ai/jobs/4969183101?gh_jid=4969183101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-09-04",
+          "matched_role": ""
+        },
+        {
+          "title": "Guidance, Navigation, & Control Engineer ",
+          "url": "https://helsing.ai/jobs/4972083101?gh_jid=4972083101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Hardware Engineer - Physical Products",
+          "url": "https://helsing.ai/jobs/4856801101?gh_jid=4856801101",
+          "location": "London; Oxford",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Head of Flight Test Management / Senior Flight Test M\u200banager - Air",
+          "url": "https://helsing.ai/jobs/5001623101?gh_jid=5001623101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-27",
+          "matched_role": ""
+        },
+        {
+          "title": "Helsing \u2013 Formula Student Programme ",
+          "url": "https://helsing.ai/jobs/4865788101?gh_jid=4865788101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "HPC Systems Administrator",
+          "url": "https://helsing.ai/jobs/4879386101?gh_jid=4879386101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Incoming Inspector - Production Quality",
+          "url": "https://helsing.ai/jobs/4861198101?gh_jid=4861198101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        },
+        {
+          "title": "IT Support Engineer",
+          "url": "https://helsing.ai/jobs/4893273101?gh_jid=4893273101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "IT Support Specialist ",
+          "url": "https://helsing.ai/jobs/4876946101?gh_jid=4876946101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "(Junior) Customs Manager",
+          "url": "https://helsing.ai/jobs/5013785101?gh_jid=5013785101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-28",
+          "matched_role": ""
+        },
+        {
+          "title": "Kreditorenbuchhalter (m/w/d)",
+          "url": "https://helsing.ai/jobs/4976946101?gh_jid=4976946101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Lagermitarbeiter (m/w/d)",
+          "url": "https://helsing.ai/jobs/5010746101?gh_jid=5010746101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Indirect Tax",
+          "url": "https://helsing.ai/jobs/5033029101?gh_jid=5033029101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-12",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead IT Engineer",
+          "url": "https://helsing.ai/jobs/4997901101?gh_jid=4997901101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer - Active RF Sensing",
+          "url": "https://helsing.ai/jobs/4900888101?gh_jid=4900888101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer - EO/IR Sensing",
+          "url": "https://helsing.ai/jobs/4782393101?gh_jid=4782393101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer \u2013 Fuzes & Warheads (Wirksysteme)",
+          "url": "https://helsing.ai/jobs/5027618101?gh_jid=5027618101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer - LO Calculations & Supplier Parts",
+          "url": "https://helsing.ai/jobs/4998692101?gh_jid=4998692101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-07",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer - LO Emission Control & RF Interoperability",
+          "url": "https://helsing.ai/jobs/4782354101?gh_jid=4782354101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer - Low Observability Shaping & Materials",
+          "url": "https://helsing.ai/jobs/4844205101?gh_jid=4844205101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-24",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer \u2013 Military Communications",
+          "url": "https://helsing.ai/jobs/4924405101?gh_jid=4924405101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Systems Engineer - Passive RF Sensing",
+          "url": "https://helsing.ai/jobs/4888238101?gh_jid=4888238101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Legal Counsel IT & Privacy",
+          "url": "https://helsing.ai/jobs/4996521101?gh_jid=4996521101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "LSA Engineer ",
+          "url": "https://helsing.ai/jobs/4948287101?gh_jid=4948287101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-09-04",
+          "matched_role": ""
+        },
+        {
+          "title": "Machine Learning Engineer, Detection and Tracking",
+          "url": "https://helsing.ai/jobs/4953562101?gh_jid=4953562101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "M&A Integration Manager",
+          "url": "https://helsing.ai/jobs/4878160101?gh_jid=4878160101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Manager Exportkontrolle",
+          "url": "https://helsing.ai/jobs/5035642101?gh_jid=5035642101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Mecanizador/a Senior y Responsable de Taller",
+          "url": "https://helsing.ai/jobs/5032474101?gh_jid=5032474101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-10",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical CAD Designer",
+          "url": "https://helsing.ai/jobs/5041713101?gh_jid=5041713101",
+          "location": "Martinsburg, WV; Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical Designer",
+          "url": "https://helsing.ai/jobs/4876267101?gh_jid=4876267101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical Designer",
+          "url": "https://helsing.ai/jobs/5028673101?gh_jid=5028673101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical Engineer",
+          "url": "https://helsing.ai/jobs/4971997101?gh_jid=4971997101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical Engineer, Kinematic Systems and Mechanisms",
+          "url": "https://helsing.ai/jobs/4880174101?gh_jid=4880174101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Mitarbeiter/in im internen Werk-und Objektschutz",
+          "url": "https://helsing.ai/jobs/4986867101?gh_jid=4986867101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-25",
+          "matched_role": ""
+        },
+        {
+          "title": "Multimodal Sensing and Fusion Engineer ",
+          "url": "https://helsing.ai/jobs/4938743101?gh_jid=4938743101",
+          "location": "Berlin; London; Munich",
+          "department": "",
+          "posted": "2026-09-10",
+          "matched_role": ""
+        },
+        {
+          "title": "Navigation Engineer",
+          "url": "https://helsing.ai/jobs/4895594101?gh_jid=4895594101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Obsolescence Manager ",
+          "url": "https://helsing.ai/jobs/4948277101?gh_jid=4948277101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-08-24",
+          "matched_role": ""
+        },
+        {
+          "title": "Optical Sensing Test Engineer",
+          "url": "https://helsing.ai/jobs/4947489101?gh_jid=4947489101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-22",
+          "matched_role": ""
+        },
+        {
+          "title": "People Operations Associate (Onboarding and Data)",
+          "url": "https://helsing.ai/jobs/5043812101?gh_jid=5043812101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Power Electronics Engineer ",
+          "url": "https://helsing.ai/jobs/5017322101?gh_jid=5017322101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Engineer - Mechatronic Systems",
+          "url": "https://helsing.ai/jobs/4642812101?gh_jid=4642812101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-22",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Engineer - Software Integration",
+          "url": "https://helsing.ai/jobs/4788891101?gh_jid=4788891101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-08",
+          "matched_role": ""
+        },
+        {
+          "title": "Product Manager, Autonomous Systems Command & Control",
+          "url": "https://helsing.ai/jobs/4947377101?gh_jid=4947377101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-09-28",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Product Manager - Autonomy ",
+          "url": "https://helsing.ai/jobs/5034019101?gh_jid=5034019101",
+          "location": "Berlin; Munich - Berlin - London",
+          "department": "",
+          "posted": "2026-11-11",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
+          "url": "https://helsing.ai/jobs/4869481101?gh_jid=4869481101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Product Manager \u2013 Perception & Sensor Fusion - Air",
+          "url": "https://helsing.ai/jobs/4999686101?gh_jid=4999686101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-27",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Produktionsmitarbeiter / Monteur",
+          "url": "https://helsing.ai/jobs/4820991101?gh_jid=4820991101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Programme Manager - Air",
+          "url": "https://helsing.ai/jobs/5000522101?gh_jid=5000522101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-11-02",
+          "matched_role": ""
+        },
+        {
+          "title": "Programme Manager \u2013 Land",
+          "url": "https://helsing.ai/jobs/4983527101?gh_jid=4983527101",
+          "location": "London, England, United Kingdom",
+          "department": "",
+          "posted": "2026-09-24",
+          "matched_role": ""
+        },
+        {
+          "title": "Programme Procurement and Partnership Manager",
+          "url": "https://helsing.ai/jobs/5025576101?gh_jid=5025576101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Project Management Office (PMO) Lead - Site Development Programme",
+          "url": "https://helsing.ai/jobs/5033806101?gh_jid=5033806101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-12",
+          "matched_role": ""
+        },
+        {
+          "title": "Prototyping Engineer",
+          "url": "https://helsing.ai/jobs/4923775101?gh_jid=4923775101",
+          "location": "London; Oxford",
+          "department": "",
+          "posted": "2026-09-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Qualit\u00e4tspr\u00fcfer - Wareneingang (m/w/d)",
+          "url": "https://helsing.ai/jobs/5040299101?gh_jid=5040299101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Qualit\u00e4tstechniker - Produktion (m/w/d)",
+          "url": "https://helsing.ai/jobs/5040418101?gh_jid=5040418101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Quality Inspector - Production Quality",
+          "url": "https://helsing.ai/jobs/4862586101?gh_jid=4862586101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Radio Frequency Engineer",
+          "url": "https://helsing.ai/jobs/4948416101?gh_jid=4948416101",
+          "location": "London; Oxford",
+          "department": "",
+          "posted": "2026-09-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Actuator Design Engineer",
+          "url": "https://helsing.ai/jobs/5030567101?gh_jid=5030567101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics DFM Engineer",
+          "url": "https://helsing.ai/jobs/5030565101?gh_jid=5030565101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Mechanical Design Engineer",
+          "url": "https://helsing.ai/jobs/5028804101?gh_jid=5028804101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Mechanical Engineer",
+          "url": "https://helsing.ai/jobs/5030588101?gh_jid=5030588101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Senior Actuator Design Engineer",
+          "url": "https://helsing.ai/jobs/5030595101?gh_jid=5030595101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Senior DFM Engineer",
+          "url": "https://helsing.ai/jobs/5030585101?gh_jid=5030585101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Senior Manufacturing Engineer",
+          "url": "https://helsing.ai/jobs/4961559101?gh_jid=4961559101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-09-08",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Senior Mechanical Engineer",
+          "url": "https://helsing.ai/jobs/4961556101?gh_jid=4961556101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Robotics Software Engineer",
+          "url": "https://helsing.ai/jobs/4943195101?gh_jid=4943195101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-10-29",
+          "matched_role": ""
+        },
+        {
+          "title": "Safety Manager (System Safety) ",
+          "url": "https://helsing.ai/jobs/4948063101?gh_jid=4948063101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-11-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Schichtleiter in der Produktion",
+          "url": "https://helsing.ai/jobs/4823231101?gh_jid=4823231101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Security Guard ",
+          "url": "https://helsing.ai/jobs/4852743101?gh_jid=4852743101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-25",
+          "matched_role": ""
+        },
+        {
+          "title": "Security Manager",
+          "url": "https://helsing.ai/jobs/4939612101?gh_jid=4939612101",
+          "location": "Paris",
+          "department": "",
+          "posted": "2026-11-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Accountant Accounts Payable",
+          "url": "https://helsing.ai/jobs/4976906101?gh_jid=4976906101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Commercial Finance Business Partner ",
+          "url": "https://helsing.ai/jobs/4963868101?gh_jid=4963868101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-31",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Commercial Manager - Air",
+          "url": "https://helsing.ai/jobs/4880212101?gh_jid=4880212101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-08-26",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Flight Test Engineer",
+          "url": "https://helsing.ai/jobs/4967013101?gh_jid=4967013101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior FP&A Analyst",
+          "url": "https://helsing.ai/jobs/5017459101?gh_jid=5017459101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, IFRS & Consolidation",
+          "url": "https://helsing.ai/jobs/5033685101?gh_jid=5033685101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-17",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manufacturing Engineer",
+          "url": "https://helsing.ai/jobs/4989373101?gh_jid=4989373101",
+          "location": "Martinsburg, WV",
+          "department": "",
+          "posted": "2026-09-29",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Operational Architect/Analyst (UCAV)",
+          "url": "https://helsing.ai/jobs/5018705101?gh_jid=5018705101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-28",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Product Marketing Manager",
+          "url": "https://helsing.ai/jobs/4468911101?gh_jid=4468911101",
+          "location": "London; Munich - Berlin",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "(Senior) Programme Manager",
+          "url": "https://helsing.ai/jobs/4951517101?gh_jid=4951517101",
+          "location": "Stockholm",
+          "department": "",
+          "posted": "2026-08-24",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Programme Manager - Air Defence",
+          "url": "https://helsing.ai/jobs/5044676101?gh_jid=5044676101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Programme Manager - International Business Development Air",
+          "url": "https://helsing.ai/jobs/5001597101?gh_jid=5001597101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Programme Manager - Maritime",
+          "url": "https://helsing.ai/jobs/4875025101?gh_jid=4875025101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Programme Manager - Militarisation - Air",
+          "url": "https://helsing.ai/jobs/4913364101?gh_jid=4913364101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-27",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Quality Engineer ",
+          "url": "https://helsing.ai/jobs/4988981101?gh_jid=4988981101",
+          "location": "Martinsburg, WV",
+          "department": "",
+          "posted": "2026-09-28",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Systems Engineer \u2013 Combat Aircraft (Security)",
+          "url": "https://helsing.ai/jobs/4972249101?gh_jid=4972249101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-05",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
+          "url": "https://helsing.ai/jobs/4924427101?gh_jid=4924427101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Systems Engineer ESM / ELS",
+          "url": "https://helsing.ai/jobs/4924407101?gh_jid=4924407101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-05",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Systems Engineer - Flight & Mission Planning",
+          "url": "https://helsing.ai/jobs/5042223101?gh_jid=5042223101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-19",
+          "matched_role": ""
+        },
+        {
+          "title": "(Senior) Systems Engineer \u2013 IT Architect",
+          "url": "https://helsing.ai/jobs/5029924101?gh_jid=5029924101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-10",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Systems Engineer - Mission System Compute Platform",
+          "url": "https://helsing.ai/jobs/5042583101?gh_jid=5042583101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-19",
+          "matched_role": ""
+        },
+        {
+          "title": "(Senior) Systems Engineer V&V \u2013 Land",
+          "url": "https://helsing.ai/jobs/5029985101?gh_jid=5029985101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
+          "url": "https://helsing.ai/jobs/5040443101?gh_jid=5040443101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Simulation Architect \u2013 Defence & Combat Systems ",
+          "url": "https://helsing.ai/jobs/5037050101?gh_jid=5037050101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Simulation Engineer",
+          "url": "https://helsing.ai/jobs/4948430101?gh_jid=4948430101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-10-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Simulation Engineer",
+          "url": "https://helsing.ai/jobs/4972086101?gh_jid=4972086101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-14",
+          "matched_role": ""
+        },
+        {
+          "title": "Simulation Engineer - Space",
+          "url": "https://helsing.ai/jobs/4972255101?gh_jid=4972255101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-10-05",
+          "matched_role": ""
+        },
+        {
+          "title": "Site Reliability Engineer",
+          "url": "https://helsing.ai/jobs/4347030101?gh_jid=4347030101",
+          "location": "Berlin; London; Munich; Paris",
+          "department": "",
+          "posted": "2026-11-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer",
+          "url": "https://helsing.ai/jobs/4737931101?gh_jid=4737931101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-10-09",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Airborne Mission Systems",
+          "url": "https://helsing.ai/jobs/4741565101?gh_jid=4741565101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Autonomous Air Systems",
+          "url": "https://helsing.ai/jobs/4741571101?gh_jid=4741571101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Autonomous Air System V&V",
+          "url": "https://helsing.ai/jobs/4741219101?gh_jid=4741219101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Backend",
+          "url": "https://helsing.ai/jobs/4125061101?gh_jid=4125061101",
+          "location": "Berlin; London; Munich; Paris; Stockholm",
+          "department": "",
+          "posted": "2026-11-11",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer, DevSecOps",
+          "url": "https://helsing.ai/jobs/4953564101?gh_jid=4953564101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Frontend Autonomous Air System V&V",
+          "url": "https://helsing.ai/jobs/4741224101?gh_jid=4741224101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Ground to Air HMI",
+          "url": "https://helsing.ai/jobs/4741242101?gh_jid=4741242101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer, Platform Engineering",
+          "url": "https://helsing.ai/jobs/4953565101?gh_jid=4953565101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer, Rust",
+          "url": "https://helsing.ai/jobs/4953558101?gh_jid=4953558101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Programme Manager \u2013 Land",
+          "url": "https://helsing.ai/jobs/4983519101?gh_jid=4983519101",
+          "location": "London, England, United Kingdom",
+          "department": "",
+          "posted": "2026-09-24",
+          "matched_role": ""
+        },
+        {
+          "title": "Specialist Export Control / ITAR",
+          "url": "https://helsing.ai/jobs/5040262101?gh_jid=5040262101",
+          "location": "Berlin; London, England, United Kingdom; Munich",
+          "department": "",
+          "posted": "2026-11-17",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff AI Research Engineer -  3D Computer Vision",
+          "url": "https://helsing.ai/jobs/5028718101?gh_jid=5028718101",
+          "location": "Munich - Berlin - London - Paris",
+          "department": "",
+          "posted": "2026-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff AI Research Engineer - ML Engineering",
+          "url": "https://helsing.ai/jobs/4778869101?gh_jid=4778869101",
+          "location": "Berlin; London; Munich",
+          "department": "",
+          "posted": "2026-11-05",
+          "matched_role": ""
+        },
+        {
+          "title": "Stress & Dynamics Engineer",
+          "url": "https://helsing.ai/jobs/4876328101?gh_jid=4876328101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Architect - Electronic Warfare",
+          "url": "https://helsing.ai/jobs/4782364101?gh_jid=4782364101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Architect - Safe Autonomy, Air Defence",
+          "url": "https://helsing.ai/jobs/5027572101?gh_jid=5027572101",
+          "location": "Berlin; Munich",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer",
+          "url": "https://helsing.ai/jobs/5028875101?gh_jid=5028875101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer",
+          "url": "https://helsing.ai/jobs/4983549101?gh_jid=4983549101",
+          "location": "London, England, United Kingdom",
+          "department": "",
+          "posted": "2026-09-24",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Armament Control System",
+          "url": "https://helsing.ai/jobs/4995351101?gh_jid=4995351101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Armament Control System Testing",
+          "url": "https://helsing.ai/jobs/4995372101?gh_jid=4995372101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer (Avionics)",
+          "url": "https://helsing.ai/jobs/4902679101?gh_jid=4902679101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer \u2013 C2 & Fire Control, Air Defence (Contra)",
+          "url": "https://helsing.ai/jobs/5027521101?gh_jid=5027521101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Electromagnetic Interference (EMI)",
+          "url": "https://helsing.ai/jobs/4865559101?gh_jid=4865559101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-16",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Interceptors",
+          "url": "https://helsing.ai/jobs/5024726101?gh_jid=5024726101",
+          "location": "London",
+          "department": "",
+          "posted": "2026-11-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Interceptors",
+          "url": "https://helsing.ai/jobs/5024730101?gh_jid=5024730101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-03",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Land",
+          "url": "https://helsing.ai/jobs/4327973101?gh_jid=4327973101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-09-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Low Observability Testing",
+          "url": "https://helsing.ai/jobs/4995384101?gh_jid=4995384101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Physical Products",
+          "url": "https://helsing.ai/jobs/4839745101?gh_jid=4839745101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-07",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Space",
+          "url": "https://helsing.ai/jobs/4972262101?gh_jid=4972262101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-10-12",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer V&V - Air",
+          "url": "https://helsing.ai/jobs/4813822101?gh_jid=4813822101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-18",
+          "matched_role": ""
+        },
+        {
+          "title": "Systems Engineer - Weapon Integration",
+          "url": "https://helsing.ai/jobs/4995343101?gh_jid=4995343101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-06",
+          "matched_role": ""
+        },
+        {
+          "title": "Technical Lead Engineer, UAV Development",
+          "url": "https://helsing.ai/jobs/4888975101?gh_jid=4888975101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Technical Logistical Support (TLB) Manager",
+          "url": "https://helsing.ai/jobs/4948293101?gh_jid=4948293101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-08-24",
+          "matched_role": ""
+        },
+        {
+          "title": "T\u00e9cnico/a de Producci\u00f3n",
+          "url": "https://helsing.ai/jobs/5034496101?gh_jid=5034496101",
+          "location": "Barcelona",
+          "department": "",
+          "posted": "2026-11-13",
+          "matched_role": ""
+        },
+        {
+          "title": "Test and Evaluation Engineer ",
+          "url": "https://helsing.ai/jobs/4962228101?gh_jid=4962228101",
+          "location": "Washington, DC",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Test Engineer - Environment",
+          "url": "https://helsing.ai/jobs/4989465101?gh_jid=4989465101",
+          "location": "London, England, United Kingdom",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Test Engineer - Environmental ",
+          "url": "https://helsing.ai/jobs/5026460101?gh_jid=5026460101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-04",
+          "matched_role": ""
+        },
+        {
+          "title": "Test Engineer - Ground",
+          "url": "https://helsing.ai/jobs/5026473101?gh_jid=5026473101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-11-04",
+          "matched_role": ""
+        },
+        {
+          "title": "Test Engineer - Ground ",
+          "url": "https://helsing.ai/jobs/4989531101?gh_jid=4989531101",
+          "location": "London, England, United Kingdom",
+          "department": "",
+          "posted": "2026-10-01",
+          "matched_role": ""
+        },
+        {
+          "title": "Treasury Manager",
+          "url": "https://helsing.ai/jobs/4980357101?gh_jid=4980357101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-09-18",
+          "matched_role": ""
+        },
+        {
+          "title": "UAS Flight Operations Manager - Germany",
+          "url": "https://helsing.ai/jobs/4979778101?gh_jid=4979778101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-11-05",
+          "matched_role": ""
+        },
+        {
+          "title": "Warehouse Clerk ",
+          "url": "https://helsing.ai/jobs/4964970101?gh_jid=4964970101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-15",
+          "matched_role": ""
+        },
+        {
+          "title": "Warehouse Operator",
+          "url": "https://helsing.ai/jobs/4963213101?gh_jid=4963213101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [
+        {
+          "title": "Product Manager, Autonomous Systems Command & Control",
+          "url": "https://helsing.ai/jobs/4947377101?gh_jid=4947377101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-09-28",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Product Manager - Autonomy ",
+          "url": "https://helsing.ai/jobs/5034019101?gh_jid=5034019101",
+          "location": "Berlin; Munich - Berlin - London",
+          "department": "",
+          "posted": "2026-11-11",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
+          "url": "https://helsing.ai/jobs/4869481101?gh_jid=4869481101",
+          "location": "Munich - Berlin",
+          "department": "",
+          "posted": "2026-08-20",
+          "matched_role": "Product Manager"
+        },
+        {
+          "title": "Product Manager \u2013 Perception & Sensor Fusion - Air",
+          "url": "https://helsing.ai/jobs/4999686101?gh_jid=4999686101",
+          "location": "Munich",
+          "department": "",
+          "posted": "2026-10-27",
+          "matched_role": "Product Manager"
+        }
+      ],
+      "score": 100.0,
+      "score_breakdown": {
+        "role_match": 4.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.7333333333333334,
+        "hiring_volume": 0.8,
+        "_subtotal": 7.533333333333333,
+        "_stage_mult": 0.95,
+        "_raw": 7.156666666666666
+      },
+      "highlighted": true,
+      "suggest_watch": false
+    },
+    {
+      "name": "Redwood Materials",
+      "slug": "redwood-materials",
+      "stage": "",
+      "amount": "$350M",
+      "investors": [
+        "Eclipse",
+        "NVentures",
+        "Nvidia's venture capital arm"
+      ],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/"
+      ],
+      "blurb": "The round was led by Eclipse and saw participation from Nvidia's venture capital arm, NVentures.",
+      "funded_on": "2025-10-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {
+        "provider": "greenhouse",
+        "token": "redwoodmaterials"
+      },
+      "jobs": [
+        {
+          "title": "Analytical Laboratory Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6120081004?gh_jid=6120081004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Analytical Lab Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6147864004?gh_jid=6147864004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Analytical Lab Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6147861004?gh_jid=6147861004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Battery Software & Controls Integration Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6238340004?gh_jid=6238340004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Business Development Analyst, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5817897004?gh_jid=5817897004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Chemical Operator",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6188318004?gh_jid=6188318004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Construction Quality Assurance/Quality Control\u00a0Manager, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5989712004?gh_jid=5989712004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Controls Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226240004?gh_jid=6226240004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Controls Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6133788004?gh_jid=6133788004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Digital Transformation Lead, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5998499004?gh_jid=5998499004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Digital Transformation Lead, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5998668004?gh_jid=5998668004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Director, HR Business Partner & Talent Management",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226234004?gh_jid=6226234004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Director, Powered Land Development",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6220456004?gh_jid=6220456004",
+          "location": "USA - Remote",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Director, Powered Land Development",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6218514004?gh_jid=6218514004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Electrical Engineering Associate, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223627004?gh_jid=6223627004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Electronics Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103559004?gh_jid=6103559004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Engineering Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6265434004?gh_jid=6265434004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Facilities Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141146004?gh_jid=6141146004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Functional Safety Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5978342004?gh_jid=5978342004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "General Site Superintendent",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6039789004?gh_jid=6039789004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Global Supply Manager, Electronics & PCBA",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6183894004?gh_jid=6183894004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Head of Total Rewards and People Analytics",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226233004?gh_jid=6226233004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Infrastructure Software Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737879004?gh_jid=5737879004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Production Associate, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6252031004?gh_jid=6252031004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Lead Project Controls Specialist, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6103560004?gh_jid=6103560004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Logistics Analyst (Inbound/Outbound)",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222749004?gh_jid=6222749004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Mechanical Design Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5835808004?gh_jid=5835808004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Payroll Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226689004?gh_jid=6226689004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Power Electronics Controls Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737875004?gh_jid=5737875004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Power Electronics Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737886004?gh_jid=5737886004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Principal Engineer, Extractive Metallurgy",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6211118004?gh_jid=6211118004",
+          "location": "Carson City, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Process Technician, Energy",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6252023004?gh_jid=6252023004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6123020004?gh_jid=6123020004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6116686004?gh_jid=6116686004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Production Associate, Energy",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6252097004?gh_jid=6252097004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Reliability Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5836554004?gh_jid=5836554004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Security Specialist",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6201161004?gh_jid=6201161004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Accountant, Fixed Assets",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6225046004?gh_jid=6225046004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Battery Data Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219757004?gh_jid=6219757004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Battery Systems Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6250905004?gh_jid=6250905004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior BESS Superintendent, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6013065004?gh_jid=6013065004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Construction Project Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6203738004?gh_jid=6203738004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior DevOps Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6193352004?gh_jid=6193352004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Electrical Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223647004?gh_jid=6223647004",
+          "location": "Carson City, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Electrical Hardware Test Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6220784004?gh_jid=6220784004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Field Quality Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5835346004?gh_jid=5835346004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior HR Business Partner",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6214312004?gh_jid=6214312004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Maintenance Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6114993004?gh_jid=6114993004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager,  Commissioning ",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6146631004?gh_jid=6146631004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, Field Performance Engineering, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6014574004?gh_jid=6014574004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, Power Electronics Controls and Software",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6242474004?gh_jid=6242474004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Manager, Software Test & Validation",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6242475004?gh_jid=6242475004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Operations Program Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139223004?gh_jid=6139223004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Production Material Planner, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6228525004?gh_jid=6228525004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Service Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823618004?gh_jid=5823618004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Software Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004?gh_jid=5823270004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Sourcer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6199636004?gh_jid=6199636004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Staff Engineer, Chemical Engineering",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6262731004?gh_jid=6262731004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Staff Scheduler",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6173978004?gh_jid=6173978004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Supply Chain Program Manager, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6228286004?gh_jid=6228286004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Systems Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6007517004?gh_jid=6007517004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Senior Technical Program Manager, Production Engineering",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141162004?gh_jid=6141162004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Training Specialist, EHS",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141373004?gh_jid=6141373004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Engineer - Site Controller, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Software Technical Program Manager, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5734248004?gh_jid=5734248004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Software Validation Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6238341004?gh_jid=6238341004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Solutions Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5998458004?gh_jid=5998458004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Spares Technician",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222766004?gh_jid=6222766004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Sr. System Modeling Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5737110004?gh_jid=5737110004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Architect, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6167474004?gh_jid=6167474004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Design Manager, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6008364004?gh_jid=6008364004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Electrical Design Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5989713004?gh_jid=5989713004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Electrical Design Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5991855004?gh_jid=5991855004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Electrical Design Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5992294004?gh_jid=5992294004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff BESS Project Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6265431004?gh_jid=6265431004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Chemical Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6133809004?gh_jid=6133809004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Controls Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5694022004?gh_jid=5694022004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-19",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Controls Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6226241004?gh_jid=6226241004",
+          "location": "Ridgeville, South Carolina, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Design Manager, Materials",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5999196004?gh_jid=5999196004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Electrical Engineer, Energy Storage BoP",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6217866004?gh_jid=6217866004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Environmental Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6222753004?gh_jid=6222753004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff EPC Designer, Structural",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6262718004?gh_jid=6262718004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff EPC Structural Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6262719004?gh_jid=6262719004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Field Applications Engineer",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219598004?gh_jid=6219598004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Global Supply Manager, Construction",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6233625004?gh_jid=6233625004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Global Supply Manager - Solar, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6233449004?gh_jid=6233449004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Mechanical Design Engineer, Big Machines",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6117129004?gh_jid=6117129004",
+          "location": "McCarran, NV; San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Power Electronics Engineer, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6211414004?gh_jid=6211414004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Power Systems Engineer, Hardware in Loop",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6217841004?gh_jid=6217841004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Recruiter",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6132367004?gh_jid=6132367004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Staff Software Engineer, Factory Automation",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5689062004?gh_jid=5689062004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Substation Protection and Control Engineer , EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5992301004?gh_jid=5992301004",
+          "location": "Carson City, NV",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Substation Protection and Control Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5653431004?gh_jid=5653431004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Substation Protection and Control Engineer, EPC",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5992300004?gh_jid=5992300004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": ""
+        },
+        {
+          "title": "Superintendent, Self Perform",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139257004?gh_jid=6139257004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Superintendent, Self Perform",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6131338004?gh_jid=6131338004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        },
+        {
+          "title": "Supplier Industrialization Engineer, Mechanical Components",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219628004?gh_jid=6219628004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [
+        {
+          "title": "Senior Operations Program Manager",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139223004?gh_jid=6139223004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Supply Chain Program Manager, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6228286004?gh_jid=6228286004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Senior Technical Program Manager, Production Engineering",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6141162004?gh_jid=6141162004",
+          "location": "McCarran, NV",
+          "department": "",
+          "posted": "2026-11-23",
+          "matched_role": "Technical Program Manager"
+        },
+        {
+          "title": "Software Technical Program Manager, Energy Storage",
+          "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5734248004?gh_jid=5734248004",
+          "location": "San Francisco, California, United States",
+          "department": "",
+          "posted": "2026-10-30",
+          "matched_role": "Technical Program Manager"
+        }
+      ],
+      "score": 97.6,
+      "score_breakdown": {
+        "role_match": 4.45,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.8,
+        "_subtotal": 7.35,
+        "_stage_mult": 0.95,
+        "_raw": 6.982499999999999
+      },
+      "highlighted": true,
+      "suggest_watch": false
+    },
+    {
+      "name": "German startup Playbook",
+      "slug": "german-startup-playbook",
+      "stage": "",
+      "amount": "$8M",
+      "investors": [],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/"
+      ],
+      "blurb": "Munich&#8217;s Playbook, a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised \u20ac8 million to turn documents into data AI can read, but not change. Heal Capital leads the round, together with Bayern Kapital and existing investor Capnamic. The company raised \u20ac2.5 million in 2025. &#8220;Our ambition is to help Pharma [&#8230;] The post German startup Playbook secures \u20ac8 million to help pharma companies deploy AI safely appeared first on EU-Startups .",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [
+        "Health"
+      ],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 72.6,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 2.5,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 5.466666666666667,
+        "_stage_mult": 0.95,
+        "_raw": 5.193333333333333
+      },
+      "highlighted": true,
+      "suggest_watch": true
+    },
+    {
+      "name": "Proximal Ventures",
+      "slug": "proximal-ventures",
+      "stage": "",
+      "amount": "$27.5M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Venture"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
+      ],
+      "blurb": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "funded_on": "2026-11-10",
+      "website": "",
+      "domains": [
+        "Health"
+      ],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 66.8,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 2.5,
+        "ai_signal": 2.0,
+        "funding_recency": 0.5333333333333333,
+        "hiring_volume": 0.0,
+        "_subtotal": 5.033333333333333,
+        "_stage_mult": 0.95,
+        "_raw": 4.781666666666666
+      },
+      "highlighted": true,
+      "suggest_watch": true
+    },
+    {
+      "name": "UK-based Agon",
+      "slug": "uk-based-agon",
+      "stage": "series a",
+      "amount": "$63.98M",
+      "investors": [
+        "Northzone",
+        "XYZ",
+        "Lux Capital",
+        "Global Founders Capital"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/"
+      ],
+      "blurb": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a \u20ac63.87 million ($70 million) Series A round at a valuation of \u20ac411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, and Global Founders Capital. The UK Government\u2019s Sovereign AI [&#8230;] The post UK-based Agon raises \u20ac63.98 million at \u20ac411.3 million valuation to build Europe\u2019s sovereign defence AI infrastructure appeared first on EU-Startups .",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 41.5,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 1.0,
+        "_raw": 2.966666666666667
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Paris-based HoloSolis",
+      "slug": "paris-based-holosolis",
+      "stage": "series a",
+      "amount": "$15M",
+      "investors": [],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/"
+      ],
+      "blurb": "HoloSolis, a Paris-based solar manufacturing startup, has closed a Series A funding round of more than \u20ac15 million to build Europe\u2019s next solar gigafactory. The round saw participation from four new investors: Cr\u00e9dit Agricole Group, through four of its regional banks; investment firm Algebris; solar manufacturer Trina Solar; and EV charging infrastructure company StarCharge. They [&#8230;] The post Paris-based HoloSolis raises over \u20ac15 million to advance \u20ac1 billion solar gigafactory in France appeared first on EU-Startups .",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 41.5,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 1.0,
+        "_raw": 2.966666666666667
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Agon",
+      "slug": "agon",
+      "stage": "series a",
+      "amount": "$70M",
+      "investors": [
+        "Northzone"
+      ],
+      "sources": [
+        "Tech Funding News"
+      ],
+      "urls": [
+        "https://techfundingnews.com/agon-raises-70m-at-450m-valuation-led-by-northzone-to-build-europes-defence-ai-lab/"
+      ],
+      "blurb": "London-based defence AI startup Agon has raised $70 million in a Series A round at a $450 million&#8230;",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {
+        "provider": "ashby",
+        "token": "agon"
+      },
+      "jobs": [
+        {
+          "title": "Finance Operations",
+          "url": "https://jobs.ashbyhq.com/agon/33a75e01-e050-425a-9626-63e58be7ec1a",
+          "location": "London Office",
+          "department": "Strategy & Operations",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Forward Deployed Engineer",
+          "url": "https://jobs.ashbyhq.com/agon/fe2b91cf-47a9-4ec1-81cf-401ca0a677af",
+          "location": "London Office",
+          "department": "Forward Deployed Engineering",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Member of Technical Staff, AI ",
+          "url": "https://jobs.ashbyhq.com/agon/d566af2a-1526-40c9-beee-c18d07583167",
+          "location": "London Office",
+          "department": "Applied AI",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Member of Technical Staff, Platform",
+          "url": "https://jobs.ashbyhq.com/agon/96500e48-7aef-4edd-8d3a-883fd64703f9",
+          "location": "London Office",
+          "department": "Platform",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Head of Legal",
+          "url": "https://jobs.ashbyhq.com/agon/db65a07d-06db-4a98-9796-e810ce4f051c",
+          "location": "London Office",
+          "department": "Strategy & Operations",
+          "posted": "2026-11-20",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [],
+      "score": 41.5,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 1.0,
+        "_raw": 2.966666666666667
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Theseus Robotics",
+      "slug": "theseus-robotics",
+      "stage": "",
+      "amount": "$455K",
+      "investors": [
+        "Y Combinator"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/"
+      ],
+      "blurb": "Theseus Robotics, a Swiss startup developing AI-powered robots to automate shelf restocking and online grocery order picking, has secured \u20ac455k ($500k) from Y Combinator and will be launching in a grocery store in Silicon Valley. The investment follows earlier backing from Founderful Campus, S2S Ventures, Earthling VC and Berlin-based Caesar Ventures, as the company prepares [&#8230;] The post Theseus Robotics secures \u20ac455k to put robots to work in supermarkets across Europe and US appeared first on EU-Startups .",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 39.4,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 0.95,
+        "_raw": 2.8183333333333334
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Report: Devin maker Cognition in talks to",
+      "slug": "report-devin-maker-cognition-in-talks-to",
+      "stage": "",
+      "amount": "$2B",
+      "investors": [],
+      "sources": [
+        "Tech Funding News"
+      ],
+      "urls": [
+        "https://techfundingnews.com/report-devin-maker-cognition-in-talks-to-raise-2b-at-75b-valuation-two-months-after-48b-round/"
+      ],
+      "blurb": "Cognition, the AI startup behind autonomous software engineering agent Devin, is in talks to raise $2 billion or&#8230;",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 39.4,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 0.95,
+        "_raw": 2.8183333333333334
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Spend management platform Payhawk announces $280M",
+      "slug": "spend-management-platform-payhawk-announces-280m",
+      "stage": "",
+      "amount": "$280M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Venture"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+      ],
+      "blurb": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "funded_on": "2026-11-18",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 37.2,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.8,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.8,
+        "_stage_mult": 0.95,
+        "_raw": 2.6599999999999997
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "London-based Acorda",
+      "slug": "london-based-acorda",
+      "stage": "pre-seed",
+      "amount": "$2.15M",
+      "investors": [
+        "Concept Ventures",
+        "NFG Ventures"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/"
+      ],
+      "blurb": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised \u20ac2.15 million (\u00a31.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo [&#8230;] The post London-based Acorda raises \u20ac2.15 million to help banks detect payment scams before money moves appeared first on EU-Startups .",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {
+        "provider": "greenhouse",
+        "token": "london"
+      },
+      "jobs": [
+        {
+          "title": "Barista",
+          "url": "https://job-boards.greenhouse.io/london/jobs/5019478004",
+          "location": "Caf\u00e9 - London, UK",
+          "department": "",
+          "posted": "2025-11-06",
+          "matched_role": ""
+        },
+        {
+          "title": "BOH Associate ",
+          "url": "https://job-boards.greenhouse.io/london/jobs/4410321004",
+          "location": "Retail - London, UK",
+          "department": "",
+          "posted": "2026-10-20",
+          "matched_role": ""
+        },
+        {
+          "title": "Sales Associate",
+          "url": "https://job-boards.greenhouse.io/london/jobs/5753313004",
+          "location": "Retail - London, UK",
+          "department": "",
+          "posted": "2026-01-08",
+          "matched_role": ""
+        }
+      ],
+      "matched_jobs": [],
+      "score": 33.2,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 0.8,
+        "_raw": 2.3733333333333335
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Swiss startup coprod",
+      "slug": "swiss-startup-coprod",
+      "stage": "pre-seed",
+      "amount": "$5.45M",
+      "investors": [
+        "Founderful",
+        "PROTOTYPE",
+        "General Catalyst",
+        "Pace Ventures",
+        "Tiny Supercomputer Investment Company",
+        "Kima Ventures",
+        "SDAC",
+        "Unruly Capital",
+        "Venturekick"
+      ],
+      "sources": [
+        "EU-Startups"
+      ],
+      "urls": [
+        "https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/"
+      ],
+      "blurb": "coprod, a Swiss robotics hardware startup building modular hardware components for robotics and physical AI applications, has raised \u20ac5.45 million ($6 million) in a pre-Seed funding round. The round was co-led by Founderful and PROTOTYPE, with additional backing from General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital, and Venturekick. Angel [&#8230;] The post Swiss startup coprod raises \u20ac5.45 million to solve \u201cintegration hell\u201d in robotics and physical AI hardware appeared first on EU-Startups .",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 33.2,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.966666666666667,
+        "_stage_mult": 0.8,
+        "_raw": 2.3733333333333335
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "OpenAI reportedly",
+      "slug": "openai-reportedly",
+      "stage": "",
+      "amount": "$11B",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      ],
+      "blurb": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "funded_on": "2026-11-06",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 31.9,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.4,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.4,
+        "_stage_mult": 0.95,
+        "_raw": 2.28
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Investors break down how founders can",
+      "slug": "investors-break-down-how-founders-can",
+      "stage": "series a",
+      "amount": "",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/"
+      ],
+      "blurb": "Raising a Series A these days isn't so simple \u2014 top investors break down what founders need to know now.",
+      "funded_on": "2026-10-22",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 29.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 1.0,
+        "_raw": 2.1
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "Modelence",
+      "slug": "modelence",
+      "stage": "",
+      "amount": "$3M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/"
+      ],
+      "blurb": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+      "funded_on": "2026-01-28",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 27.9,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "VC firm 2150",
+      "slug": "vc-firm-2150",
+      "stage": "",
+      "amount": "$210M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/"
+      ],
+      "blurb": "Europe-based venture fund 2150 raised the money to invest in climate tech startups that help solve cities' carbon footprint.",
+      "funded_on": "2026-01-26",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 27.9,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "A new search engine",
+      "slug": "a-new-search-engine",
+      "stage": "",
+      "amount": "$1.1M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/"
+      ],
+      "blurb": "Lore raises $1.1 million to build a personalized search engine for fandom culture.",
+      "funded_on": "2025-10-03",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 27.9,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "AI voice company Hyper",
+      "slug": "ai-voice-company-hyper",
+      "stage": "",
+      "amount": "$6.3M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-911-calls/"
+      ],
+      "blurb": "Hyper hopes to use the fresh capital to help scale across the country, integrate more into existing 911 systems, hire a head of engineering, and build its next product.",
+      "funded_on": "2025-07-21",
+      "website": "",
+      "domains": [],
+      "ai_signal": true,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 27.9,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 2.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 2.1,
+        "_stage_mult": 0.95,
+        "_raw": 1.9949999999999999
+      },
+      "highlighted": false,
+      "suggest_watch": true
+    },
+    {
+      "name": "EPFL founders who built a robot in a garage",
+      "slug": "epfl-founders-who-built-a-robot-in-a-garage",
+      "stage": "",
+      "amount": "$6M",
+      "investors": [
+        "Founderful",
+        "PROTOTYPE"
+      ],
+      "sources": [
+        "Tech Funding News"
+      ],
+      "urls": [
+        "https://techfundingnews.com/coprod-raises-6m-robot-integration-hell/"
+      ],
+      "blurb": "Before a robot works, its motors, batteries, and sensors all have to be integrated. This process can take&#8230;",
+      "funded_on": "2026-11-23",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 12.8,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.9666666666666667,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.9666666666666667,
+        "_stage_mult": 0.95,
+        "_raw": 0.9183333333333333
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    },
+    {
+      "name": "Superorganism",
+      "slug": "superorganism",
+      "stage": "",
+      "amount": "$25M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2026/01/13/superorganism-raises-25m-to-back-biodiversity-startups/"
+      ],
+      "blurb": "Superorganism backs companies across three categories: tech that slows or reverses extinction, startups that operate at the intersection of climate and biodiversity, and tools that enable conservationists to do their work more effectively.",
+      "funded_on": "2026-01-13",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 1.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.1,
+        "_stage_mult": 0.95,
+        "_raw": 0.095
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    },
+    {
+      "name": "A year after filing to IPO, still-private Cerebras Systems",
+      "slug": "a-year-after-filing-to-ipo-still-private-cerebras-systems",
+      "stage": "",
+      "amount": "$1.1B",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/"
+      ],
+      "blurb": "Cerebras initially filed to go public in September 2024 but ran into several regulatory delays due to foreign investments.",
+      "funded_on": "2025-09-30",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 1.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.1,
+        "_stage_mult": 0.95,
+        "_raw": 0.095
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    },
+    {
+      "name": "Doorstep",
+      "slug": "doorstep",
+      "stage": "seed",
+      "amount": "$8M",
+      "investors": [],
+      "sources": [
+        "TechCrunch \u2014 Fundraising"
+      ],
+      "urls": [
+        "https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/"
+      ],
+      "blurb": "Doorstep integrates into existing delivery apps and then, using phone sensors, tracks when a driver has entered a building, gone up an elevator, and made it to the desired doorstep.",
+      "funded_on": "2025-09-25",
+      "website": "",
+      "domains": [],
+      "ai_signal": false,
+      "ats": {},
+      "jobs": [],
+      "matched_jobs": [],
+      "score": 1.3,
+      "score_breakdown": {
+        "role_match": 0.0,
+        "domain_match": 0.0,
+        "ai_signal": 0.0,
+        "funding_recency": 0.1,
+        "hiring_volume": 0.0,
+        "_subtotal": 0.1,
+        "_stage_mult": 0.9,
+        "_raw": 0.09000000000000001
+      },
+      "highlighted": false,
+      "suggest_watch": false
+    }
+  ]
+}
